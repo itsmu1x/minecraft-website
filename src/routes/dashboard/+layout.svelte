@@ -116,7 +116,7 @@
 				src={SKIN_IMAGE}
 				width="64"
 				height="64"
-				alt={"User Profile"}
+				alt="User Profile"
 			/>
 
 			<div>
@@ -173,7 +173,7 @@
 		<div
 			class="flex justify-between p-4 bg-lightbody dark:bg-darkerblue border-b sideborder"
 		>
-			<div>
+			<!-- <div>
 				<img
 					width="48"
 					height="48"
@@ -181,7 +181,7 @@
 					src="/exp64.png"
 					alt="Logo"
 				/>
-			</div>
+			</div> -->
 
 			<div class="text-white">
 				<Hamburger

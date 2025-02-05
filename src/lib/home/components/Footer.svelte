@@ -7,13 +7,13 @@
 				<div
 					class="flex justify-center md:justify-start items-center gap-2"
 				>
-					<img
+					<!-- <img
 						src="/exp64.png"
 						alt="Logo"
 						width="48"
 						height="48"
 						class="aspect-square w-12 h-auto"
-					/>
+					/> -->
 
 					<h3 class="text-xl font-semibold">MinecraftTemplate</h3>
 				</div>

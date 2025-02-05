@@ -67,7 +67,7 @@
 			class="container px-6 mx-auto h-full flex justify-between p-2 items-center"
 		>
 			<div class="flex gap-12">
-				<a href="/" aria-label="Logo">
+				<!-- <a href="/" aria-label="Logo">
 					<img
 						width="48"
 						height="48"
@@ -75,7 +75,7 @@
 						src="/exp64.png"
 						alt="Logo"
 					/>
-				</a>
+				</a> -->
 
 				<ul class="hidden md:flex gap-8 items-center">
 					{#each NAVS as nav (nav.name)}
