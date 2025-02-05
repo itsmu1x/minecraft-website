@@ -182,6 +182,9 @@
 					alt="Logo"
 				/>
 			</div> -->
+			<div class="size-12 grid place-items-center text-lg font-medium">
+				Demo
+			</div>
 
 			<div class="text-white">
 				<Hamburger
