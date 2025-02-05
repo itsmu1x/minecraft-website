@@ -17,4 +17,4 @@
 -   using [NPM](https://www.npmjs.com/) run `npm run dev`
 -   using [Yarn](https://yarnpkg.com/) run `yarn run dev`
 
-#### Hopefully you get some benefits from this project
+#### Hopefully you get some benefits from this project.
