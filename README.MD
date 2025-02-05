@@ -1,4 +1,4 @@
-# PGxPO Website
+# Minecraft Demo Website
 
 ### Installation
 
